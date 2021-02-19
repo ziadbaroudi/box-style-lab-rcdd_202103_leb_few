@@ -35,17 +35,14 @@ look like on screen before going back and editing the actual CSS file.
 - Provide a [`background`][background] texture for the whole page, using `images/white-wood.jpg`
 - Implement an over-the-top, mind-blowing, [`linear-gradient()`][linear-gradient] effect for all of our section titles
 
+#### What We Have
 
-<div align="center">
-  <h4>What We Have</h4>
-  <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/box-style-lab-incomplete.png" alt="drawing" width="200px"/>
-</div>
+![drawing](https://curriculum-content.s3.amazonaws.com/fewds-css/box-style-lab-incomplete.png)
 
+#### What We Want
 
-<div align="center"><br>
-  <h4>What We Want</h4>
-  <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/box-style-lab-complete.png" alt="drawing" width="200px"/>
-</div><br>
+![drawing](https://curriculum-content.s3.amazonaws.com/fewds-css/box-style-lab-complete.png)
+
 
 
 #### Help Getting Started
